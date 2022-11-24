@@ -1,1 +1,1 @@
-# Extracting_gold_from_-gold-bearing_ore
+# Extracting_gold_from_gold-bearing_ore
