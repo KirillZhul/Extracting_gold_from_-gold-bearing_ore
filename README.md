@@ -10,4 +10,10 @@
 - Построить и обучить модель.
 
 # Инструменты:
-Pandas sklearn numpy Seaborn Matplotlib math ML
+- Pandas;
+- sklearn;
+- numpy;
+- Seaborn;
+- Matplotlib
+- math;
+- ML.
